@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jul 19 15:15:42 CST 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=jar\\DispatchSystemDaemon.jar
+manifest.mergeall=true
+manifest.mainclass=com.baofeng.dispatchexecutor.boot.BootMain
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

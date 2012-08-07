@@ -1,0 +1,1 @@
+cd /home/machen && python PyArg.py

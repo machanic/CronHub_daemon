@@ -1,0 +1,1 @@
+cd /home/machen/test && sh test.sh

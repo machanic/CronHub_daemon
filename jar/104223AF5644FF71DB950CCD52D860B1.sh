@@ -1,0 +1,1 @@
+cd /home/machen && sh fuckU.sh
